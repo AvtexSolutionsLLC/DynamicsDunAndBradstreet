@@ -1,0 +1,10 @@
+"C:\Program Files (x86)\Microsoft\ILMerge\ILMerge.exe"
+/keyfile:"C:\Users\tshepherd.CORP\Documents\Visual Studio 2015\Projects\Avtex.Integrations.DunnAndBradstreet\Avtex.Xrm.Integrations.Activities\avtex.snk"
+/ndebug
+/copyattrs
+/targetplatform:"v4,C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0"
+/out:"C:\Users\tshepherd.CORP\Documents\Visual Studio 2015\Projects\Avtex.Integrations.DunnAndBradstreet\Avtex.Xrm.Integrations.Activities\Avtex.Xrm.Integrations.Activities.dll"
+
+     "C:\Users\tshepherd.CORP\Documents\Visual Studio 2015\Projects\Avtex.Integrations.DunnAndBradstreet\Avtex.Xrm.Integrations.Activities\bin\Debug\Avtex.Xrm.Integrations.Activities.dll"
+
+     "C:\Users\tshepherd.CORP\Documents\Visual Studio 2015\Projects\Avtex.Integrations.DunnAndBradstreet\Avtex.Xrm.Integrations.Activities\bin\Debug\Avtex.Xrm.Integrations.DnB.dll"
